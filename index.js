@@ -4,7 +4,7 @@ function shout (string) {
 }
 
 function whisper(string){
-  return Apple.toLowerCase()
+  return string.toLowerCase()
 }
 
 
