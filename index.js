@@ -8,7 +8,7 @@ function whisper(string){
 }
 
 function longShout(string){
-  console.log(string.toUpperCase)
+  console.log().toUpperCase()
 }
 
 
@@ -27,6 +27,4 @@ function sayHiToGrandma (string){
   if (string == string.toUpperCase()) {
   return "YES INDEED!";
   }
-
-
 }
