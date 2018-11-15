@@ -18,7 +18,7 @@ function longShout(string){
 
 function sayHiToGrandma (string){
   if (string == string.toLowerCase())
-  return "I love you, too"
+  return "I can't hear you!";
 
 
 }
